@@ -18,5 +18,8 @@
     <ClCompile Include="Less01.cpp">
       <Filter>資源檔</Filter>
     </ClCompile>
+    <ClCompile Include="tset.cpp">
+      <Filter>資源檔</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
