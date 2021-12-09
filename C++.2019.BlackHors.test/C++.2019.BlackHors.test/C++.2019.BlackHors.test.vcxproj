@@ -88,6 +88,8 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard_C>stdc17</LanguageStandard_C>
+      <LanguageStandard>stdcpplatest</LanguageStandard>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -139,8 +141,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="if.cpp" />
     <ClCompile Include="Less01.cpp" />
+    <ClCompile Include="switch.cpp" />
     <ClCompile Include="tset.cpp" />
+    <ClCompile Include="while.cpp" />
+    <ClCompile Include="三目算法.cpp" />
+    <ClCompile Include="三種數比重.cpp" />
+    <ClCompile Include="算帳.cpp" />
+    <ClCompile Include="算數.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

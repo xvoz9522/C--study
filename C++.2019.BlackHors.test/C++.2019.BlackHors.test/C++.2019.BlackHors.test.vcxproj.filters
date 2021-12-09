@@ -21,5 +21,26 @@
     <ClCompile Include="tset.cpp">
       <Filter>資源檔</Filter>
     </ClCompile>
+    <ClCompile Include="算帳.cpp">
+      <Filter>資源檔</Filter>
+    </ClCompile>
+    <ClCompile Include="算數.cpp">
+      <Filter>資源檔</Filter>
+    </ClCompile>
+    <ClCompile Include="if.cpp">
+      <Filter>資源檔</Filter>
+    </ClCompile>
+    <ClCompile Include="三種數比重.cpp">
+      <Filter>資源檔</Filter>
+    </ClCompile>
+    <ClCompile Include="三目算法.cpp">
+      <Filter>資源檔</Filter>
+    </ClCompile>
+    <ClCompile Include="switch.cpp">
+      <Filter>資源檔</Filter>
+    </ClCompile>
+    <ClCompile Include="while.cpp">
+      <Filter>資源檔</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
