@@ -42,5 +42,14 @@
     <ClCompile Include="while.cpp">
       <Filter>資源檔</Filter>
     </ClCompile>
+    <ClCompile Include="While循環猜數字.cpp">
+      <Filter>資源檔</Filter>
+    </ClCompile>
+    <ClCompile Include="do_While.cpp">
+      <Filter>資源檔</Filter>
+    </ClCompile>
+    <ClCompile Include="do_While水仙花.cpp">
+      <Filter>資源檔</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
