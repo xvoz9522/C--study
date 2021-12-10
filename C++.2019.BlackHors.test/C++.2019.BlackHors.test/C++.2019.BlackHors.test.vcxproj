@@ -141,8 +141,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="break.cpp" />
     <ClCompile Include="do_While.cpp" />
     <ClCompile Include="do_While水仙花.cpp" />
+    <ClCompile Include="for.cpp" />
+    <ClCompile Include="for_敲桌子.cpp" />
     <ClCompile Include="if.cpp" />
     <ClCompile Include="Less01.cpp" />
     <ClCompile Include="switch.cpp" />
@@ -151,6 +154,8 @@
     <ClCompile Include="While循環猜數字.cpp" />
     <ClCompile Include="三目算法.cpp" />
     <ClCompile Include="三種數比重.cpp" />
+    <ClCompile Include="嵌套循環.cpp" />
+    <ClCompile Include="嵌套循環_乘法.cpp" />
     <ClCompile Include="算帳.cpp" />
     <ClCompile Include="算數.cpp" />
   </ItemGroup>

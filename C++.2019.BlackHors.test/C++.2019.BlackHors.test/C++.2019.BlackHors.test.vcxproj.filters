@@ -51,5 +51,20 @@
     <ClCompile Include="do_While水仙花.cpp">
       <Filter>資源檔</Filter>
     </ClCompile>
+    <ClCompile Include="for.cpp">
+      <Filter>資源檔</Filter>
+    </ClCompile>
+    <ClCompile Include="for_敲桌子.cpp">
+      <Filter>資源檔</Filter>
+    </ClCompile>
+    <ClCompile Include="嵌套循環.cpp">
+      <Filter>資源檔</Filter>
+    </ClCompile>
+    <ClCompile Include="嵌套循環_乘法.cpp">
+      <Filter>資源檔</Filter>
+    </ClCompile>
+    <ClCompile Include="break.cpp">
+      <Filter>資源檔</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
