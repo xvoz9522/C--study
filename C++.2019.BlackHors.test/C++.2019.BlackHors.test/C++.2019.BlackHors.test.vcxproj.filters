@@ -66,5 +66,14 @@
     <ClCompile Include="break.cpp">
       <Filter>資源檔</Filter>
     </ClCompile>
+    <ClCompile Include="continue.cpp">
+      <Filter>資源檔</Filter>
+    </ClCompile>
+    <ClCompile Include="goto.cpp">
+      <Filter>資源檔</Filter>
+    </ClCompile>
+    <ClCompile Include="數組.cpp">
+      <Filter>資源檔</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
