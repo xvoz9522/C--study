@@ -75,5 +75,8 @@
     <ClCompile Include="數組.cpp">
       <Filter>資源檔</Filter>
     </ClCompile>
+    <ClCompile Include="數組名.cpp">
+      <Filter>資源檔</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

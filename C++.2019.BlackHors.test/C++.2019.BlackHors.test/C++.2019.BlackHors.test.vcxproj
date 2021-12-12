@@ -159,6 +159,7 @@
     <ClCompile Include="嵌套循環.cpp" />
     <ClCompile Include="嵌套循環_乘法.cpp" />
     <ClCompile Include="數組.cpp" />
+    <ClCompile Include="數組名.cpp" />
     <ClCompile Include="算帳.cpp" />
     <ClCompile Include="算數.cpp" />
   </ItemGroup>
