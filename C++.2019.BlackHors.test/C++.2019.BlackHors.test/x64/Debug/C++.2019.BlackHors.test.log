@@ -1,25 +1,8 @@
-﻿  break.cpp
-  continue.cpp
-  do_While.cpp
-  do_While水仙花.cpp
-  for.cpp
-  for_敲桌子.cpp
-  goto.cpp
-  if.cpp
-  Less01.cpp
-  switch.cpp
-  tset.cpp
-  while.cpp
-  While循環猜數字.cpp
-  三目算法.cpp
-  三種數比重.cpp
-  嵌套循環.cpp
-  嵌套循環_乘法.cpp
-  數組.cpp
-  數組名.cpp
-  算帳.cpp
-  正在產生程式碼...
-  正在編譯...
-  算數.cpp
-  正在產生程式碼...
+﻿  數組名.cpp
+D:\aric art\code\C++.2019.BlackHors.test\C++.2019.BlackHors.test\數組名.cpp(11,48): warning C4311: '類型轉換': 指標值由 'int *' 指派至 'int' 時會遭截斷
+D:\aric art\code\C++.2019.BlackHors.test\C++.2019.BlackHors.test\數組名.cpp(11,48): warning C4302: '類型轉換': 從 'int *' 轉換為 'int'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\aric art\code\C++.2019.BlackHors.test\C++.2019.BlackHors.test\數組名.cpp(12,66): warning C4311: '類型轉換': 指標值由 'int *' 指派至 'int' 時會遭截斷
+D:\aric art\code\C++.2019.BlackHors.test\C++.2019.BlackHors.test\數組名.cpp(12,66): warning C4302: '類型轉換': 從 'int *' 轉換為 'int'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\aric art\code\C++.2019.BlackHors.test\C++.2019.BlackHors.test\數組名.cpp(13,62): warning C4311: '類型轉換': 指標值由 'int *' 指派至 'int' 時會遭截斷
+D:\aric art\code\C++.2019.BlackHors.test\C++.2019.BlackHors.test\數組名.cpp(13,62): warning C4302: '類型轉換': 從 'int *' 轉換為 'int'，是由較大的類型轉換為較小的類型，可能導致資料遺失
   C++.2019.BlackHors.test.vcxproj -> D:\aric art\code\C++.2019.BlackHors.test\x64\Debug\C++.2019.BlackHors.test.exe
