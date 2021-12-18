@@ -140,6 +140,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="一維數組,冒號排序.cpp" />
+    <ClCompile Include="二維數組,數組名.cpp" />
+    <ClCompile Include="二維數組.cpp" />
+    <ClCompile Include="二維陣列(數組)_運用範例.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

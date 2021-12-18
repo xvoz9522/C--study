@@ -18,5 +18,14 @@
     <ClCompile Include="一維數組,冒號排序.cpp">
       <Filter>資源檔</Filter>
     </ClCompile>
+    <ClCompile Include="二維數組.cpp">
+      <Filter>資源檔</Filter>
+    </ClCompile>
+    <ClCompile Include="二維數組,數組名.cpp">
+      <Filter>資源檔</Filter>
+    </ClCompile>
+    <ClCompile Include="二維陣列(數組)_運用範例.cpp">
+      <Filter>資源檔</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
