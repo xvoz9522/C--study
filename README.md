@@ -1,2 +1,2 @@
-# C++ -study
+# C++_study
 C++
