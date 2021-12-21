@@ -139,8 +139,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="函數_直傳遞.cpp" />
+    <ClCompile Include="函數_值傳遞.cpp" />
     <ClCompile Include="函數定義.cpp" />
+    <ClCompile Include="函數常見樣式.cpp" />
     <ClCompile Include="函數調用.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

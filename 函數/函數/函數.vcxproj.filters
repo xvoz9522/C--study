@@ -21,7 +21,10 @@
     <ClCompile Include="函數調用.cpp">
       <Filter>資源檔</Filter>
     </ClCompile>
-    <ClCompile Include="函數_直傳遞.cpp">
+    <ClCompile Include="函數_值傳遞.cpp">
+      <Filter>資源檔</Filter>
+    </ClCompile>
+    <ClCompile Include="函數常見樣式.cpp">
       <Filter>資源檔</Filter>
     </ClCompile>
   </ItemGroup>
