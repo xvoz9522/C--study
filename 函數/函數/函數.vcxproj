@@ -139,11 +139,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="swap.cpp" />
     <ClCompile Include="函數_值傳遞.cpp" />
     <ClCompile Include="函數定義.cpp" />
     <ClCompile Include="函數常見樣式.cpp" />
+    <ClCompile Include="函數的分文件編寫.cpp" />
     <ClCompile Include="函數聲明.cpp" />
     <ClCompile Include="函數調用.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="swap.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

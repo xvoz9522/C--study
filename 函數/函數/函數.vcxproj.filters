@@ -30,5 +30,16 @@
     <ClCompile Include="函數聲明.cpp">
       <Filter>資源檔</Filter>
     </ClCompile>
+    <ClCompile Include="函數的分文件編寫.cpp">
+      <Filter>資源檔</Filter>
+    </ClCompile>
+    <ClCompile Include="swap.cpp">
+      <Filter>資源檔</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="swap.h">
+      <Filter>來源檔案</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
