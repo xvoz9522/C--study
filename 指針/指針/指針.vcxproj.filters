@@ -27,5 +27,11 @@
     <ClCompile Include="const修飾指針.cpp">
       <Filter>資源檔</Filter>
     </ClCompile>
+    <ClCompile Include="指針和數組.cpp">
+      <Filter>資源檔</Filter>
+    </ClCompile>
+    <ClCompile Include="指針和函數.cpp">
+      <Filter>資源檔</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

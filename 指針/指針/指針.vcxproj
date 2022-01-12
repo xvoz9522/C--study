@@ -140,6 +140,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="const修飾指針.cpp" />
+    <ClCompile Include="指針和函數.cpp" />
+    <ClCompile Include="指針和數組.cpp" />
     <ClCompile Include="指針基本概念.cpp" />
     <ClCompile Include="指針所佔的內存空間.cpp" />
     <ClCompile Include="空指針和野指針.cpp" />
