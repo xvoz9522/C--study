@@ -139,6 +139,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="結構底套結構體.cpp" />
+    <ClCompile Include="結構體做函數參數.cpp" />
     <ClCompile Include="結構體定義與使用.cpp" />
     <ClCompile Include="結構體指針.cpp" />
     <ClCompile Include="結構體數組.cpp" />

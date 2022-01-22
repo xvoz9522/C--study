@@ -27,5 +27,11 @@
     <ClCompile Include="結構體指針.cpp">
       <Filter>資源檔</Filter>
     </ClCompile>
+    <ClCompile Include="結構底套結構體.cpp">
+      <Filter>資源檔</Filter>
+    </ClCompile>
+    <ClCompile Include="結構體做函數參數.cpp">
+      <Filter>資源檔</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
