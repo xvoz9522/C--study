@@ -144,6 +144,7 @@
     <ClCompile Include="結構體定義與使用.cpp" />
     <ClCompile Include="結構體指針.cpp" />
     <ClCompile Include="結構體數組.cpp" />
+    <ClCompile Include="結構體案例1.cpp" />
     <ClCompile Include="解構體中const使用場景.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
