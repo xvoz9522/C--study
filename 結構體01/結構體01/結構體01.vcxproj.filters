@@ -36,5 +36,8 @@
     <ClCompile Include="結構體案例1.cpp">
       <Filter>資源檔</Filter>
     </ClCompile>
+    <ClCompile Include="結構體案例2.cpp">
+      <Filter>資源檔</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
