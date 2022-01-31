@@ -18,5 +18,11 @@
     <ClCompile Include="全局區.cpp">
       <Filter>資源檔</Filter>
     </ClCompile>
+    <ClCompile Include="棧區.cpp">
+      <Filter>資源檔</Filter>
+    </ClCompile>
+    <ClCompile Include="堆區.cpp">
+      <Filter>資源檔</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
