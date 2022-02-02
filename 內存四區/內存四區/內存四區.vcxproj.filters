@@ -24,5 +24,8 @@
     <ClCompile Include="堆區.cpp">
       <Filter>資源檔</Filter>
     </ClCompile>
+    <ClCompile Include="new操作符.cpp">
+      <Filter>資源檔</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

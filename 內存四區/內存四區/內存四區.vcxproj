@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="new操作符.cpp" />
     <ClCompile Include="全局區.cpp" />
     <ClCompile Include="堆區.cpp" />
     <ClCompile Include="棧區.cpp" />
