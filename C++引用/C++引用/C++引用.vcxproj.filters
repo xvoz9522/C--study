@@ -24,5 +24,11 @@
     <ClCompile Include="引用做函數參數.cpp">
       <Filter>資源檔</Filter>
     </ClCompile>
+    <ClCompile Include="引用做函數返回值.cpp">
+      <Filter>資源檔</Filter>
+    </ClCompile>
+    <ClCompile Include="常量引用.cpp">
+      <Filter>資源檔</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

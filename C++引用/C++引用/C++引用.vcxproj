@@ -139,7 +139,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="常量引用.cpp" />
     <ClCompile Include="引用做函數參數.cpp" />
+    <ClCompile Include="引用做函數返回值.cpp" />
     <ClCompile Include="引用基本用法.cpp" />
     <ClCompile Include="引用注意事項.cpp" />
   </ItemGroup>
