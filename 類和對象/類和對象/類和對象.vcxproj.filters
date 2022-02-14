@@ -15,10 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="封裝-屬性和行為作為整體.cpp">
+    <ClCompile Include="01封裝-屬性和行為作為整體.cpp">
       <Filter>資源檔</Filter>
     </ClCompile>
-    <ClCompile Include="封裝-案例-學生.cpp">
+    <ClCompile Include="02封裝-案例-學生.cpp">
+      <Filter>資源檔</Filter>
+    </ClCompile>
+    <ClCompile Include="03封裝-使用權限.cpp">
       <Filter>資源檔</Filter>
     </ClCompile>
   </ItemGroup>
