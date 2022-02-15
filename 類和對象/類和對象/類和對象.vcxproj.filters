@@ -24,5 +24,11 @@
     <ClCompile Include="03封裝-使用權限.cpp">
       <Filter>資源檔</Filter>
     </ClCompile>
+    <ClCompile Include="04封裝-struct和calss分別.cpp">
+      <Filter>資源檔</Filter>
+    </ClCompile>
+    <ClCompile Include="05成員屬性私有化.cpp">
+      <Filter>資源檔</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

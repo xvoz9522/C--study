@@ -142,6 +142,8 @@
     <ClCompile Include="03封裝-使用權限.cpp" />
     <ClCompile Include="01封裝-屬性和行為作為整體.cpp" />
     <ClCompile Include="02封裝-案例-學生.cpp" />
+    <ClCompile Include="04封裝-struct和calss分別.cpp" />
+    <ClCompile Include="05成員屬性私有化.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
