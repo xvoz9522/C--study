@@ -145,6 +145,7 @@
     <ClCompile Include="04封裝-struct和calss分別.cpp" />
     <ClCompile Include="05成員屬性私有化.cpp" />
     <ClCompile Include="06封裝-設計立方體.cpp" />
+    <ClCompile Include="07封裝-點和圓關係.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

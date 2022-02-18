@@ -33,5 +33,8 @@
     <ClCompile Include="06封裝-設計立方體.cpp">
       <Filter>資源檔</Filter>
     </ClCompile>
+    <ClCompile Include="07封裝-點和圓關係.cpp">
+      <Filter>資源檔</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
