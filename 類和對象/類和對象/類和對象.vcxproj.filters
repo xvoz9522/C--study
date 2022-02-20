@@ -36,5 +36,19 @@
     <ClCompile Include="07封裝-點和圓關係.cpp">
       <Filter>資源檔</Filter>
     </ClCompile>
+    <ClCompile Include="Point.cpp">
+      <Filter>資源檔</Filter>
+    </ClCompile>
+    <ClCompile Include="Circle.cpp">
+      <Filter>資源檔</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Point.h">
+      <Filter>來源檔案</Filter>
+    </ClInclude>
+    <ClInclude Include="Circle.h">
+      <Filter>來源檔案</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
