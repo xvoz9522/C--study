@@ -141,6 +141,8 @@
   <ItemGroup>
     <ClCompile Include="01構造函數和析構函數.cpp" />
     <ClCompile Include="02構造函數的分類與調用.cpp" />
+    <ClCompile Include="03拷貝構造函數調用時機.cpp" />
+    <ClCompile Include="04構造函數調用規則.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

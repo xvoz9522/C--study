@@ -21,5 +21,11 @@
     <ClCompile Include="02構造函數的分類與調用.cpp">
       <Filter>資源檔</Filter>
     </ClCompile>
+    <ClCompile Include="03拷貝構造函數調用時機.cpp">
+      <Filter>資源檔</Filter>
+    </ClCompile>
+    <ClCompile Include="04構造函數調用規則.cpp">
+      <Filter>資源檔</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
