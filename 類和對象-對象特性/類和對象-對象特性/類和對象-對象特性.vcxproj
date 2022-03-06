@@ -143,6 +143,10 @@
     <ClCompile Include="02構造函數的分類與調用.cpp" />
     <ClCompile Include="03拷貝構造函數調用時機.cpp" />
     <ClCompile Include="04構造函數調用規則.cpp" />
+    <ClCompile Include="05深拷貝和淺拷貝.cpp" />
+    <ClCompile Include="06初始化列表.cpp" />
+    <ClCompile Include="07類對象作為類的成員.cpp" />
+    <ClCompile Include="08靜態成員變量.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

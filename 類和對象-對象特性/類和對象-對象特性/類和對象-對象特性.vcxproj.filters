@@ -27,5 +27,17 @@
     <ClCompile Include="04構造函數調用規則.cpp">
       <Filter>資源檔</Filter>
     </ClCompile>
+    <ClCompile Include="05深拷貝和淺拷貝.cpp">
+      <Filter>資源檔</Filter>
+    </ClCompile>
+    <ClCompile Include="06初始化列表.cpp">
+      <Filter>資源檔</Filter>
+    </ClCompile>
+    <ClCompile Include="07類對象作為類的成員.cpp">
+      <Filter>資源檔</Filter>
+    </ClCompile>
+    <ClCompile Include="08靜態成員變量.cpp">
+      <Filter>資源檔</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
