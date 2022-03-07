@@ -39,5 +39,11 @@
     <ClCompile Include="08靜態成員變量.cpp">
       <Filter>資源檔</Filter>
     </ClCompile>
+    <ClCompile Include="09靜態成員函數.cpp">
+      <Filter>資源檔</Filter>
+    </ClCompile>
+    <ClCompile Include="10成員變量和成員函數分開存储.cpp">
+      <Filter>資源檔</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
