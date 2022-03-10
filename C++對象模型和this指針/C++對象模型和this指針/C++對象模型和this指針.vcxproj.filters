@@ -21,5 +21,11 @@
     <ClCompile Include="02this指針概念與使用.cpp">
       <Filter>資源檔</Filter>
     </ClCompile>
+    <ClCompile Include="03空指針訪問成員函數.cpp">
+      <Filter>資源檔</Filter>
+    </ClCompile>
+    <ClCompile Include="Const修飾成員函數.cpp">
+      <Filter>資源檔</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
