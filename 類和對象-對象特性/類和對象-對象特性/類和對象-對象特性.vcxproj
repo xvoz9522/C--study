@@ -148,7 +148,6 @@
     <ClCompile Include="07類對象作為類的成員.cpp" />
     <ClCompile Include="08靜態成員變量.cpp" />
     <ClCompile Include="09靜態成員函數.cpp" />
-    <ClCompile Include="10成員變量和成員函數分開存储.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
