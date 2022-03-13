@@ -21,5 +21,8 @@
     <ClCompile Include="02-類做友元.cpp">
       <Filter>資源檔</Filter>
     </ClCompile>
+    <ClCompile Include="03成員函數做友元.cpp">
+      <Filter>資源檔</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
