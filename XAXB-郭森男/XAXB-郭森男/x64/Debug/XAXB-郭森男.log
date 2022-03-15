@@ -1,0 +1,4 @@
+﻿  01XAXB.cpp
+D:\code\XAXB-郭森男\XAXB-郭森男\01XAXB.cpp(7,15): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+D:\code\XAXB-郭森男\XAXB-郭森男\01XAXB.cpp(35,13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\code\XAXB-郭森男\XAXB-郭森男\01XAXB.cpp(57,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
